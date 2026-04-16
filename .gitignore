@@ -1,0 +1,55 @@
+# Node modules
+/node_modules
+
+# Compilation output
+/dist
+
+# pnpm deploy output
+/bundle
+
+# Hardhat Build Artifacts
+/artifacts
+
+# Hardhat compilation (v2) support directory
+/cache
+
+# Typechain output
+/types
+
+# Hardhat coverage reports
+/coverage
+# Node modules
+node_modules/
+
+# Build output
+dist/
+bundle/
+
+# Hardhat
+artifacts/
+cache/
+coverage/
+types/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.local
+
+# Database
+*.db
+backend/data/
+
+# AI model files (VERY IMPORTANT)
+contract_ai_model/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
